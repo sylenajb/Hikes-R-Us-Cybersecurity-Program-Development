@@ -1,6 +1,6 @@
 # Hikes R Us - Cybersecurity Program
 
-## Brief Introduction
+### Brief Introduction
 Worked as part of a group to develop a 30+ page cybersecurity program for a fictional company, Hikes R Us. The program addressed risk management, system security, compliance, and workforce development, as well as policies for technology use, asset management, and data classification. It also included program monitoring, KPIs, and continuous improvement strategies to ensure ongoing effectiveness.
 
 ## Skills Learned
@@ -53,7 +53,7 @@ Worked as part of a group to develop a 30+ page cybersecurity program for a fict
 
    *Ref 7: KPIs for secure handling & data protection*
 
-# Links to documents
-- Risk Assessment & Audit Findings
-- Business Continuity Plan
-- Cybersecurity Program
+# Final Deliverables
+- [Risk Assessment & Audit Findings](https://github.com/sylenajb/Hikes-R-Us-Cybersecurity-Program-Development/blob/main/Hikes_R_Us_Audit_%26_Risk_Assessment.pdf)
+- [Business Continuity Plan](https://github.com/sylenajb/Hikes-R-Us-Cybersecurity-Program-Development/blob/main/Hikes%20R%20US%20BCP.docx.pdf)
+- [Cybersecurity Program](https://github.com/sylenajb/Hikes-R-Us-Cybersecurity-Program-Development/blob/main/Hikes%20R%20Us%20Overall%20Security%20Program.pdf)
