@@ -11,6 +11,12 @@ Worked as part of a group to develop a 30+ page cybersecurity program for a fict
 - Establishing monitoring metrics, KPIs, and review cycles
 - Workforce training and security awareness integration
 
+## Tools Used
+- Frameworks: NIST CSF, PCI-DSS 
+- Google Docs
+- Research: Security Tools (Norton Antivirus, GTT Data Loss Prevention, Astra Vulnerability Scanner)
+- Research: Training & Awareness Platforms (KnowBe4, Huntress, CISA resources)
+
 ## Steps
 1. Conducted an initial risk assessment and business impact analysis (BIA) to identify critical assets, threats, and business priorities.
    
